@@ -1,7 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /google761df83dd6a2d290.html
-Disallow: /google761df83dd6a2d290 (2).html
-Disallow: /app-ads.txt
 
 Sitemap: https://zmmllc.github.io/sitemap.xml
